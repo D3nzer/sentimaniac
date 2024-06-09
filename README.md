@@ -10,7 +10,7 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.9.0-purple)](https://matplotlib.org/)
 
 [![Jupyter](https://img.shields.io/badge/Jupyter-1.0.0-F37726)](https://jupyter.org/)
-[![Pickle](https://img.shields.io/badge/Pickle-F37726)](https://docs.python.org/3/library/pickle.html#module-pickle)
+[![Pickle](https://img.shields.io/badge/Pickle-🥒-384d3e)](https://docs.python.org/3/library/pickle.html#module-pickle)
 
 🎉 Welcome to Sentimaniac - a Python Machine Learning project for analyzing sentiment with flair! 🚀
 
